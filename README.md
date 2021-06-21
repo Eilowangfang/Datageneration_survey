@@ -1,3 +1,4 @@
 # Datageneration_survey
 
-## Data generation using declarative constraints. SIGMOD 2011
+## Traditional method
+### Data generation using declarative constraints. SIGMOD 2011
