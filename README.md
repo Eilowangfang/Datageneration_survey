@@ -19,4 +19,4 @@
 * Learning for Graph Matching and Related Combinatorial Optimization Problems. IJCAI, 2019
 * Deep Reinforcement Learning of Graph Matching. 
 * Adaptive Pattern Matching with Reinforcement Learning for Dynamic Graphs. 
-* Neural Subgraph Matching. arXiv, 2019   Stanford
+* Neural Subgraph Matching. arXiv, 2019
