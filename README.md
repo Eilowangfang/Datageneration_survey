@@ -15,3 +15,8 @@
 ## Traditional method for Subgraph Matching
 * Combining Sampling and Synopses with Worst-Case Optimal Runtime and Quality Guarantees for Graph Pattern Cardinality Estimation. SIGMOD, 2021
 * G-CARE: A Framework for Performance Benchmarking of Cardinality Estimation Techniques for Subgraph Matching. SIGMOD, 2019
+
+* Learning for Graph Matching and Related Combinatorial Optimization Problems. IJCAI, 2019
+* Deep Reinforcement Learning of Graph Matching. 
+* Adaptive Pattern Matching with Reinforcement Learning for Dynamic Graphs. 
+* Neural Subgraph Matching. arXiv, 2019   Stanford
