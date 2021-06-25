@@ -12,7 +12,8 @@
 * Lauca: Generating Application-Oriented Synthetic Workloads. arXiv, 2019
 
 
-## Traditional method for Quer generation
+## Traditional method for Query generation
+* A genetic approach for random testing of database systems.VLDB,2007
 * Generating Targeted Queries for Database Testing. SIGMOD, 2008.
 * Qrelx: generating meaningful queries that provide cardinality assurance. SIGMOD, 2010
 * Testing Database Engines via Pivoted Query Synthesis. OSDI, 2020
